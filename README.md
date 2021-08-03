@@ -11,14 +11,18 @@ This project is based on the following components:
   https://shop.espruino.com/accessories/usb-bluetooth
   
   Note3: Different BLE standards have different capabilities and ranges. 
+  
   https://blog.nordicsemi.com/getconnected/things-you-should-know-about-bluetooth-range
+  
   https://blog.nordicsemi.com/getconnected/tested-by-nordic-bluetooth-long-range
   
 - xiaomi mijia devices
   https://tinyl.io/4Y7f
 
   note1: the original firmware is not optimal. an alternative optimized firmware is available at:
+  
   https://www.youtube.com/watch?v=NXKzFG61lNs
+  
   https://github.com/pvvx/ATC_MiThermometer
   
   note2: you will need to remove the battery twice during the process of updating the firmware. 
