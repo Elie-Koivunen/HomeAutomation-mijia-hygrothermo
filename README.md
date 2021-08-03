@@ -55,7 +55,9 @@ https://prosindo.com/blog/2020/04/23/monitor-temperatures-using-bluetooth-xiaomi
 
 http://www.d0wn.com/using-bash-and-gatttool-to-get-readings-from-xiaomi-mijia-lywsd03mmc-temperature-humidity-sensor/
 
+https://github.com/belkop-ghb/LYWSD03MMC/blob/master/readSensors.sh
 
+https://sarajarvi.org/mijia-bt-sensorit/
 
 
 
