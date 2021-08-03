@@ -35,3 +35,12 @@ This project is based on the following components:
   
   note2: bluetoothctl utility is not reliable and wont necessarily always display the BLE devices. alternatively you can use "gatttool" and "hcitool lescan".
 
+- There currently are python scripts and tools that enable to collect data from the devices. I opted not to use this for the following reasons:
+  - i want to process the data 
+  - i want to use the custom firmware and leverage the broadcast approach to save energy
+  - i want to create own light weight graphing (probably mrtg, rrdtool, gnuplot or then again fluxdb, havent decided at the time of writing)
+
+
+
+
+
