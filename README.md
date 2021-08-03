@@ -17,6 +17,7 @@ This project is based on the following components:
   https://blog.nordicsemi.com/getconnected/tested-by-nordic-bluetooth-long-range
   
 - xiaomi mijia devices
+- 
   https://tinyl.io/4Y7f
 
   note1: the original firmware is not optimal. an alternative optimized firmware is available at:
