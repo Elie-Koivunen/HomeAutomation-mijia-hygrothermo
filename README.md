@@ -75,4 +75,5 @@ https://sarajarvi.org/mijia-bt-sensorit/
   cd /opt/mijia
   git clone https://github.com/JsBergbau/MiTemperature2.git
   
-
+- install influxdb
+  #apt install influxdb
