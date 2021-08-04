@@ -59,5 +59,20 @@ https://github.com/belkop-ghb/LYWSD03MMC/blob/master/readSensors.sh
 
 https://sarajarvi.org/mijia-bt-sensorit/
 
-
+- python 3.7
+  this python version is required by MiTemperature2. to install:
+  #apt install python3 python3-pip
+  
+  #pip3 install bluepy requests
+  
+  #apt install bluetooth libbluetooth-dev
+  
+  #pip3 install pybluez
+  
+  
+- clone the github source the code with which to connect to the mijia devices:  
+  mkdir -p /opt/mijia/
+  cd /opt/mijia
+  git clone https://github.com/JsBergbau/MiTemperature2.git
+  
 
