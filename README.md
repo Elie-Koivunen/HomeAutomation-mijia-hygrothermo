@@ -77,3 +77,6 @@ https://sarajarvi.org/mijia-bt-sensorit/
   
 - install influxdb
   #apt install influxdb
+
+- install lighttpd for other purposes
+  #apt install lighttpd
